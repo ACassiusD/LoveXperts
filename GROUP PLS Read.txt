@@ -1,0 +1,10 @@
+Use template.php to make new pages
+
+Any changes made to the .css files or the header file should be kept track of so everyone can make the changes 
+
+Currently the top menu is unable to change links based on what page it is on and will be implemented when taught
+
+Everything that you should be adding into your pages should be wrapped in the wrapper1 div tag which is already
+implemented and makered in comments in the template.
+
+The .css files are kind of confusing, that because I edited a free css template
