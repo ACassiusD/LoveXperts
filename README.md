@@ -6,16 +6,29 @@ in this project, the site was written from scratch in raw PHP and ran against a 
 project and I developed further skills with SQL, time management, and password security, sessions, cookies, and user views. 
 
 **Features written from scratch**
+  
   -SQL Database integration 
+  
   -User and Profile creation/updating 
+  
   -User sessions and cookies 
+  
   -Image uploading 
+  
   -Administrative Controls
+  
   -Interactive search by region map
+  
   -Searching users with complex queries 
+  
   -Password updating 
+  
   -Custom script to generate users 
+  
   -Pagination 
+  
   -Strictly conforms to HTML and CSS standards 
+  
   -Reporting profiles 
+  
   -“Liking” and matching users
