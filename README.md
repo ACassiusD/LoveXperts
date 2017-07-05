@@ -34,3 +34,6 @@ project and I developed further skills with SQL, time management, and password s
   -“Liking” and matching users
 
 ![1](https://user-images.githubusercontent.com/18119577/27847105-d0e3287a-6109-11e7-96ab-6a6a611774e8.png)
+![2](https://user-images.githubusercontent.com/18119577/27847126-f234bf66-6109-11e7-813a-5ffd799dae20.png)
+![3](https://user-images.githubusercontent.com/18119577/27847127-f4003398-6109-11e7-93b9-f132f563c6f8.png)
+![4](https://user-images.githubusercontent.com/18119577/27847128-f5a1727a-6109-11e7-9d07-70e6b77320d5.png)
